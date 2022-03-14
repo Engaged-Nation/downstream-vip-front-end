@@ -49,7 +49,6 @@
     </div>
 
     <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=downstream-vip&client_id=4ef68919c6906e0ce585e846e548c8e" type="text/javascript"></script>
-
     <div id="en-footer-layout-container"></div>
 
 </body>
